@@ -15,4 +15,4 @@ This repo contains all the minor projects that I build using ReactJS
 
 **📝 What is used:** React(Context API Approach) + MaterialUI
 
-**🔗 Link:** [https://react-image-gallery-nu.vercel.app/](https://react-image-gallery-nu.vercel.app/)
+**🔗 Link:** [https://multi-step-form-bice.vercel.app/](https://multi-step-form-bice.vercel.app/)
