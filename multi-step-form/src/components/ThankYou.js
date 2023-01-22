@@ -4,7 +4,6 @@ import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
 import Container from '@mui/material/Container';
 
 export default function ThankYou() {
@@ -20,7 +19,7 @@ export default function ThankYou() {
               aria-label="menu"
               sx={{ mr: 2 }}
             >
-              <MenuIcon />
+              
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 , position: 'absolute', left: '50%', right: '50%', width: '200px'}}>
               Success
